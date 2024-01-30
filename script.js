@@ -40,3 +40,7 @@ function Cocobutton() {
         randomImage();
     }
 }
+function Secretbutton(){
+    const images = document.getElementById('image');
+    image.src = 'https://i.postimg.cc/PqtcLh5T/Whats-App-Bild-2024-01-30-um-17-58-06-fa35d579.jpg';
+}
